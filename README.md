@@ -19,12 +19,10 @@ Welcome to the Crypto Trading Platform, a cutting-edge application built with Ne
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot-1.png)
-![Screenshot 2](screenshots/screenshot-2.png)
-![Screenshot 3](screenshots/screenshot-3.png)
-
-
-
+<img src="https://github.com/maazshaikh711/coinmart-next-blockchain/blob/main/Screenshot/coinswap1.JPG" />
+<img src="https://github.com/maazshaikh711/coinmart-next-blockchain/blob/main/Screenshot/coinswap2.JPG"/>
+<img src="https://github.com/maazshaikh711/coinmart-next-blockchain/blob/main/Screenshot/coinswap3.JPG"/>
+<img src="https://github.com/maazshaikh711/coinmart-next-blockchain/blob/main/Screenshot/coinswap4.JPG"/>
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/yourusername/crypto-trading-platform.git`
