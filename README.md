@@ -27,7 +27,7 @@ Welcome to the Crypto Trading Platform, a cutting-edge application built with Ne
 ## Getting Started
 
 
-1. Clone the repository: `git clone https://github.com/maazshaikh711/coinmart-next-blockchain/.git`
+1. Clone the repository: `https://github.com/Piyush-K28/Coin-Mart.git`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 
